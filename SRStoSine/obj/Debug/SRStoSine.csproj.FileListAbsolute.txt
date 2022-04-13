@@ -1,0 +1,11 @@
+C:\Users\ozanb\source\repos\SRStoSine\SRStoSine\obj\Debug\SRStoSine.csproj.AssemblyReference.cache
+C:\Users\ozanb\source\repos\SRStoSine\SRStoSine\obj\Debug\SRStoSine.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozanb\source\repos\SRStoSine\SRStoSine\obj\Debug\SRStoSine.Properties.Resources.resources
+C:\Users\ozanb\source\repos\SRStoSine\SRStoSine\obj\Debug\SRStoSine.csproj.GenerateResource.cache
+C:\Users\ozanb\source\repos\SRStoSine\SRStoSine\obj\Debug\SRStoSine.csproj.CoreCompileInputs.cache
+C:\Users\ozanb\source\repos\SRStoSine\SRStoSine\bin\Debug\SRStoSine.exe.config
+C:\Users\ozanb\source\repos\SRStoSine\SRStoSine\bin\Debug\SRStoSine.exe
+C:\Users\ozanb\source\repos\SRStoSine\SRStoSine\bin\Debug\SRStoSine.pdb
+C:\Users\ozanb\source\repos\SRStoSine\SRStoSine\obj\Debug\SRStoSine.Form1.resources
+C:\Users\ozanb\source\repos\SRStoSine\SRStoSine\obj\Debug\SRStoSine.exe
+C:\Users\ozanb\source\repos\SRStoSine\SRStoSine\obj\Debug\SRStoSine.pdb
